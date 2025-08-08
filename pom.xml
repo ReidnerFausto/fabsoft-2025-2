@@ -10,7 +10,8 @@
     <name>Multi Project: FSO 2025 2</name>
 
     <modules>
-        <module>revisao_walter</module>
+        <module>revisao-poo</module>
+        <module>revisao-poo-deud</module>
        
     </modules>
 
