@@ -26,6 +26,7 @@ Este projeto visa oferecer uma solução completa para o gerenciamento de invent
   - **Integração com Vendas:** Atualiza automaticamente o estoque quando uma venda é registrada.
   - **Painel Administrativo:** Apresenta dashboards e métricas importantes para uma visão geral do negócio.
 
+<s>
 #### 2. Plataforma de Validação e Venda de Direitos de Posse Digital via Blockchain
 
 Este projeto utiliza a tecnologia **blockchain** para criar um marketplace seguro e transparente para ativos digitais. É uma solução robusta para garantir a autenticidade e a propriedade de itens como arte, documentos ou licenças.
@@ -37,7 +38,9 @@ Este projeto utiliza a tecnologia **blockchain** para criar um marketplace segur
   - **Transparência e Imutabilidade:** Garante um histórico de transações que é transparente e não pode ser alterado.
   - **Notificações:** Envia alertas sobre transferências e atualizações de posse.
   - **Integração com Carteiras Digitais:** Facilita pagamentos e a autenticação de usuários.
+</s>
 
+<s>
 #### 3. Aplicativo de Delivery com Sistema de Pontuação e Fidelidade
 
 Uma plataforma de delivery completa que se diferencia pelo seu sistema de fidelização. O aplicativo incentiva a recorrência de clientes por meio de um programa de pontos e recompensas exclusivas.
@@ -51,7 +54,9 @@ Uma plataforma de delivery completa que se diferencia pelo seu sistema de fideli
   - **Validação de Pagamento:** Integra múltiplas formas de pagamento, como cartão, PIX e carteiras digitais.
   - **Histórico e Feedbacks:** Armazena o histórico de pedidos e permite que os clientes enviem feedbacks.
   - **Notificações Push:** Envia notificações para manter os usuários informados sobre promoções e o status de seus pedidos.
+</s>
 
+<s>
 #### 4. Plataforma para Anotações e Envio Seguro de Documentos Online
 
 Este projeto é uma ferramenta para gerenciamento e colaboração de documentos online, com foco na segurança e na proteção de dados. É ideal para equipes que precisam compartilhar e editar arquivos de forma segura.
@@ -65,3 +70,4 @@ Este projeto é uma ferramenta para gerenciamento e colaboração de documentos 
   - **Compartilhamento com Permissões:** Oferece compartilhamento de documentos com controle granular de permissões (visualizar, editar, baixar).
   - **Notificações de Atividade:** Alerta sobre atualizações e acessos aos documentos.
   - **Integração com Assinatura Digital:** Permite a validação legal de documentos.
+</s>
