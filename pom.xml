@@ -12,6 +12,7 @@
     <modules>
         <module>revisao-poo</module>
         <module>revisao-poo-deud</module>
+        <module>fabsoft-backend</module>
        
     </modules>
 
